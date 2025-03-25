@@ -1,0 +1,7 @@
+{
+  "/not-found": "app/not-found.js",
+  "/(auth)/sign-in/[[...sigin-in]]/page": "app/(auth)/sign-in/[[...sigin-in]]/page.js",
+  "/(root)/meeting/[id]/page": "app/(root)/meeting/[id]/page.js",
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/(root)/(home)/personal-room/page": "app/(root)/(home)/personal-room/page.js"
+}
