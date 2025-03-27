@@ -1,4 +1,4 @@
-// File: /Users/mohammednadeem/Web Programming/Zoom_clone_test/Zoom Clone/app/(auth)/sign-in/[[...sigin-in]]/page.tsx
+// File: C:\MyProgs\Connect+\SWE-\app\(auth)\sign-in\[[...sigin-in]]\page.tsx
 import * as entry from '../../../../../../app/(auth)/sign-in/[[...sigin-in]]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

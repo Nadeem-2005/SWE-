@@ -1,4 +1,4 @@
-// File: /Users/mohammednadeem/Web Programming/Zoom_clone_test/Zoom Clone/app/(root)/meeting/[id]/page.tsx
+// File: C:\MyProgs\Connect+\SWE-\app\(root)\meeting\[id]\page.tsx
 import * as entry from '../../../../../../app/(root)/meeting/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
