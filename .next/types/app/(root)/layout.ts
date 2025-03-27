@@ -1,4 +1,4 @@
-// File: /Users/mohammednadeem/Web Programming/Zoom_clone_test/Zoom Clone/app/(root)/layout.tsx
+// File: C:\MyProgs\Connect+\SWE-\app\(root)\layout.tsx
 import * as entry from '../../../../app/(root)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
